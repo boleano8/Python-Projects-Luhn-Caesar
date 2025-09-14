@@ -13,7 +13,7 @@ Bienvenido a mi repositorio personal de proyectos en Python. Aquí presento dos 
 - - **Captura de pantalla**:
   ![Ejemplo Validador](images/luhn_output.png) 
 
-### 2. Cifrador Clásico de César - Transformación Invertida de Texto con Desplazamiento
+### 2. Cifrador Clásico de Caesar - Transformación Invertida de Texto con Desplazamiento
 - **Descripción**: Un cifrador que desplaza letras en el alfabeto (e.g., shift=3), manteniendo espacios, usando módulo para ciclos.
 - **Archivo**: [caesar_cipher.py](caesar_cipher.py)
 - **Ejemplo**: 'Hello Zaira' → `encrypted text: khoor cdilrd`
