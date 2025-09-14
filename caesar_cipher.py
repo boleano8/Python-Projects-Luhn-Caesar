@@ -1,3 +1,5 @@
+#Cifrador Clásico de Caesar - Transformación Invertida de Texto con Desplazamiento.
+
 text = 'Hello Zaira'
 shift = 3
 
