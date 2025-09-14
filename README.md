@@ -11,7 +11,7 @@ Bienvenido a mi repositorio personal de proyectos en Python. Aquí presento dos 
 - **Ejemplo**: Para '4111-1111-4555-1142', salida: `VALID!`
 - **Habilidades**: Slicing, bucles, condicionales, módulo.
 - - **Captura de pantalla**:
-  ![Ejemplo Validador](images/luhn_output.png) 
+  ![Ejemplo Validador](images/luhn_output.png)
 
 ### 2. Cifrador Clásico de Caesar - Transformación Invertida de Texto con Desplazamiento
 - **Descripción**: Un cifrador que desplaza letras en el alfabeto (e.g., shift=3), manteniendo espacios, usando módulo para ciclos.
