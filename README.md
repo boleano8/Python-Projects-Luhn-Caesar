@@ -10,12 +10,16 @@ Bienvenido a mi repositorio personal de proyectos en Python. Aquí presento dos 
 - **Archivo**: [luhn_validator.py](luhn_validator.py)
 - **Ejemplo**: Para '4111-1111-4555-1142', salida: `VALID!`
 - **Habilidades**: Slicing, bucles, condicionales, módulo.
+- - **Captura de pantalla**:
+  ![Ejemplo Validador](images/luhn_output.png) 
 
 ### 2. Cifrador Clásico de César - Transformación Invertida de Texto con Desplazamiento
 - **Descripción**: Un cifrador que desplaza letras en el alfabeto (e.g., shift=3), manteniendo espacios, usando módulo para ciclos.
 - **Archivo**: [caesar_cipher.py](caesar_cipher.py)
 - **Ejemplo**: 'Hello Zaira' → `encrypted text: khoor cdilrd`
 - **Habilidades**: Bucles, condicionales, operaciones modulares.
+- - **Captura de pantalla**:
+  ![Ejemplo Cifrador](images/caesar_output.png)
 
 ## Instrucciones de Uso
 1. Clona el repo: `git clone https://github.com/boleano8/Python-Projects-Luhn-Caesar`
